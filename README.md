@@ -1,4 +1,4 @@
-UnfavMod
+あんふぁぼられったーMOD
 ========
 
 作者 つてと(Tsuteto)
