@@ -1,0 +1,23 @@
+unfavmod.needAuth=[UnfavMod] Tried activation but not authorized yet. Press %s key to authorize.
+
+unfavmod.twitterauth.title=UnfavMod: Twitter Authorization
+unfavmod.twitterauth.enterPin=Enter PIN
+unfavmod.twitterauth.jumpToWeb=Jump to Authorization Page
+unfavmod.twitterauth.guide.1=First, click the button 'Jump to Authorization Page'.
+unfavmod.twitterauth.guide.2=Enter the PIN code displayed on the web page after grant.
+unfavmod.twitterauth.guide.3=Click done after you finished entering
+unfavmod.twitterauth.guide.failed=Oops! Seems to be a wrong PIN code. Try again.
+unfavmod.twitterauth.granted=[UnfavMod] Granted access to your twitter account!
+
+unfavmod.started=[UnfavMod] Activated as account: %s
+unfavmod.failedStart=[UnfavMod] Failed to start up
+unfavmod.stopped=[UnfavMod] Shut down
+unfavmod.reachedLimit=[UnfavMod] Tweet has reached the limit! Shut down
+unfavmod.unfav=%s unfavorited you! #%s
+unfavmod.unfav.anonymous=Someone unfavorited you! #%2$s
+
+death.attack.unfav=%2$s killed by %1$s's unfavorite!
+death.attack.unfav.anonymous=%2$s killed by someone's unfavorite!
+
+key.categories.unfavmod=UnfavMod
+key.unfavmod.control=Control key

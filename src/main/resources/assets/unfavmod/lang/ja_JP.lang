@@ -1,0 +1,23 @@
+unfavmod.needAuth=[UnfavMod] 起動を試みましたがまだ認証されていません。%sキーを押して認証してください
+
+unfavmod.twitterauth.title=あんふぁぼられったーMOD Twitter認証
+unfavmod.twitterauth.enterPin=PINを入力
+unfavmod.twitterauth.jumpToWeb=認証ページへ飛ぶ
+unfavmod.twitterauth.guide.1=まず「認証ページへ飛ぶ」ボタンを押してください
+unfavmod.twitterauth.guide.2=認証後にWebページに表示されたPINコードを入力してください
+unfavmod.twitterauth.guide.3=入力できたら完了をクリックしてください
+unfavmod.twitterauth.guide.failed=おっと、PINコード違うみたいです。もう一度試してください
+unfavmod.twitterauth.granted=[UnfavMod] Twitterアカウントへのアクセスが認可されました!
+
+unfavmod.started=[UnfavMod] 起動しました。アカウント: %s
+unfavmod.failedStart=[UnfavMod] 起動失敗
+unfavmod.stopped=[UnfavMod] 終了しました
+unfavmod.reachedLimit=[UnfavMod] ツイート上限到達! 終了しました
+unfavmod.unfav=%sにあんふぁぼられた! - %s回目
+unfavmod.unfav.anonymous=誰かにあんふぁぼられた! - %2$s回目
+
+death.attack.unfav=%2$sは%1$sにあんふぁぼられて死んでしまった!
+death.attack.unfav.anonymous=%2$sはあんふぁぼられて死んでしまった!
+
+key.categories.unfavmod=あんふぁぼられったーMOD
+key.unfavmod.control=コントロールキー
